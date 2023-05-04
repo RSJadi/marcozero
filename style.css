@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: rgb(144, 144, 230);
+}
+
+.image {
+    width: 50vh;
+    height: 30vh;
+}
+
+.container{
+    margin: 5% 2%;
+}
+
+.title {
+    margin-top: 2rem;
+}
+
+.subtitle{
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+}
+
+.navegation {
+    display: flex;
+    list-style: none;
+    gap: 6rem;
+    justify-content: center;
+    margin-top: 2%;
+}
+
+.link {
+    text-decoration: none;
+    color: rgb(16, 85, 16);
+    font-size: large;
+}
+
+.paco_frevo {
+    display: flex;
+    align-items: center;
+    gap: 4rem;
+}
+
+.forte_das_cinco_pontas{
+    margin: 2rem;
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 4rem;
+    align-items: center;
+}
+
+.what{
+    margin: 2rem;
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 4rem;
+    align-items: center;
+}
+
+.importancia {
+    display: flex;
+    align-items: center;
+    gap: 4rem;
+}
+
+.curiosidade {
+    margin: 2rem;
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 4rem;
+    align-items: center;
+}
+
+.footer{
+    background-color: rgb(139, 69, 19);
+}
+
